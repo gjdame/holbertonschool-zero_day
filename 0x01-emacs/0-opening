@@ -7,5 +7,15 @@
   # open/save file:
   # What is a buffer? How do you switch between files
   # Using the mark and the point to set the region:
-  # Searching forward and backward:
-  # Invo
+  # Cutting and pasting lines and regions
+  
+  # Searching forward:
+  C-s
+  # and backward:
+  C-r
+  # Invoking commands by name:
+  M-x
+  # Cancelling half-entered commands: 
+  C-g
+  # Quitting: 
+  C-x C-c
